@@ -171,5 +171,7 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 
 
 ＃　打算搞一个ｇｈｏｓｔ超级懒人版　恢复安装包
+恢复版教程（不推荐　不安全　不稳定）
+https://macx.top/1879.html
 
 
