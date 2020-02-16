@@ -141,4 +141,7 @@ https://www.kancloud.cn/q952008898/hei_ping_guo/1108249(好文章 参考这个)
 
 https://iknow.lenovo.com.cn/detail/dc_151394.html
 
+2.hackingtools使用方法:
+https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html
+
 
