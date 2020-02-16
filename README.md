@@ -138,7 +138,11 @@ sudo spctl --master-disable
 只用一个软件---Paragon Hard Disk Manger
 https://www.bilibili.com/video/av75454979/
 
+苹果系统盘是 175.4gb那个
+f盘: 97.6gb 为win10和macos通用盘,用来代码同步的
+300mb那个苹果启动efi引导盘
 
+#上述三行可能会因为我自己后来操作过而改变,具体自己斟酌
 
 疑问:备份mac系统是不是只需要备份 mac下的 efi分区+mac系统盘?
 
