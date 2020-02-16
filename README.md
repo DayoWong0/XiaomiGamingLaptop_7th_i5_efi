@@ -81,21 +81,18 @@ Scroll Reverser鼠标方向矫正.zip
 
 6.安装显卡驱动:
 
+1.安装clover
 
+黑苹果使用clover configurator修改config.plist配置文件
+https://blog.csdn.net/blackei/article/details/88216473
 
+clover Mac下的管理软件 百度网盘里/本仓库mac/software-mac/下面
 
+黑苹果10.13.6安装WebDriver驱动nvidia独立显卡，以及修改机型
+https://blog.csdn.net/blackei/article/details/88216169
 
-
-
-
-
-
-
-
-
-
-
-
+驱动下载网址:
+https://www.tonymacx86.com/nvidia-drivers/
 
 
 
@@ -109,7 +106,7 @@ Scroll Reverser鼠标方向矫正.zip
 
 sudo spctl --master-disable
 
-开机在终端输入这个 打开任何来源
+在终端输入这个 打开任何来源
 
 
 备份：
