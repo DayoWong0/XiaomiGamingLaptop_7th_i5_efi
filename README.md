@@ -175,3 +175,21 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 https://macx.top/1879.html
 
 
+#4.屏幕显示模糊 字体小（开始的显示效果感觉看久了眼睛会瞎）
+
+解决办法：
+
+开启hidpi
+
+来源：https://zhih.me/one-key-hidpi/
+
+执行脚本
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
+
+选项设置：
+
+选1 开启hidpi
+选择显示器ICON--选择2--macbook  
+分辨率--选择4--2560*1440
+
+
