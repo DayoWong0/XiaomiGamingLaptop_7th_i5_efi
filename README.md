@@ -125,6 +125,8 @@ sudo spctl --master-disable
 
 https://www.bilibili.com/video/av39026334/
 
+https://www.kancloud.cn/q952008898/hei_ping_guo/1108249(好文章 参考这个)
+
 黑苹果在win10下备份 推荐经常备份
 
 备份软件:Paragon HFS+ for Windows v10.5 百度网盘里有
