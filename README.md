@@ -1,6 +1,13 @@
 # mac
-黑苹果系列 遇到的问题和办法
 
+
+这些好到爆炸的网站:
+https://www.kancloud.cn/q952008898/hei_ping_guo/1053738
+https://blog.daliansky.net/
+
+
+
+黑苹果系列 遇到的问题和办法
 全篇参考文章(参考这个基本没问题):http://zxacn.com/articles/2019/08/02/1564717450462.html#b3_solo_h2_5
 
 其他参考文章
