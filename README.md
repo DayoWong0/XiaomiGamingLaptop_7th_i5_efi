@@ -1,22 +1,22 @@
 # mac
 
 
-这些好到爆炸的网站:
+#　这些好到爆炸的网站:
 https://www.kancloud.cn/q952008898/hei_ping_guo/1053738
 https://blog.daliansky.net/
 
 
 
-黑苹果系列 遇到的问题和办法
-全篇参考文章(参考这个基本没问题):http://zxacn.com/articles/2019/08/02/1564717450462.html#b3_solo_h2_5
+＃黑苹果系列 遇到的问题和办法
+＃全篇参考文章(参考这个基本没问题):http://zxacn.com/articles/2019/08/02/1564717450462.html#b3_solo_h2_5
 
 其他参考文章
 https://zhuanlan.zhihu.com/p/84327935
 https://www.codetd.com/article/1805647
 
-安装:
+＃安装:
 
-资源文件:
+＃　资源文件:
 
 资源工具
 mac os镜像、windows下的工具以及配置文件
@@ -26,7 +26,7 @@ mac os镜像、windows下的工具以及配置文件
 百度云账号用户名叫 爱0000k 下
 小米游戏本黑苹果资源
 
-注:clover要用
+＃注:clover要用
 
 CLOVER的副本.zip 这个才支持我这本子
 
@@ -38,7 +38,7 @@ CLOVER的副本.zip 这个才支持我这本子
 就成了 双硬盘装双系统
 
 
-分区:
+＃分区:
 
 苹果要apfs格式 需要用 DiskGenius.exe 将整个机械硬盘 
 
@@ -76,7 +76,7 @@ https://blog.daliansky.net/Under-Windows-using-DISKPART-to-create-EFI-points.htm
 不能再安装期间进入win10系统)-->安装完成
 
 
-修改时间:
+＃修改时间:
 
 黑苹果 安装系统出现"安装 macOS xxx"应用程序副本已损坏，不能用来安装macOS解决方法
 https://blog.csdn.net/qq_41855420/article/details/102762647
@@ -114,7 +114,7 @@ https://www.tonymacx86.com/nvidia-drivers/
 
 
 
-进入macOS后：
+＃进入macOS后：
 
 sudo spctl --master-disable
 
@@ -155,5 +155,18 @@ https://iknow.lenovo.com.cn/detail/dc_151394.html
 
 2.hackingtools使用方法:
 https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html
+
+＃　３.双系统时间不同
+
+通常我们会添加系统时间补丁来解决这个问题，但是我们也可以通过简单的命令修改Windows 对硬件时间的对待方式来解决这个问题， 让 Windows 把硬件时间当作 UTC时间。
+
+window7用户开始->运行->输入CMD
+
+window8/10用户 WIN+x 选择管理员模式进入CMD
+
+执行以下命令：
+
+Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
+这样就不用添加系统时间补丁。
 
 
