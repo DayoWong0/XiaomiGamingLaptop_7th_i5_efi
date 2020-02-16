@@ -60,6 +60,11 @@ https://www.affdalao.com/1109.html
 
 此项目下的文件里有(脚本还在完善中): mac/autoamountdisk/
 
+2.1:上面2的操作不用了.
+新建一个exFAT格式的盘 win mac系统都能自由读写
+
+https://www.kancloud.cn/q952008898/hei_ping_guo/1053738
+
 3.一个efi分区 200mb以上 我选择的300m
 
 Windows下使用diskpart建立EFI分区及挂载EFI分区
