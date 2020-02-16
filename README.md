@@ -123,13 +123,21 @@ sudo spctl --master-disable
 
 备份：
 
-https://www.bilibili.com/video/av39026334/
+# https://www.bilibili.com/video/av39026334/
 
-https://www.kancloud.cn/q952008898/hei_ping_guo/1108249(好文章 参考这个)
+# https://www.kancloud.cn/q952008898/hei_ping_guo/1108249(好文章 参考这个)
 
-黑苹果在win10下备份 推荐经常备份
+# 黑苹果在win10下备份 推荐经常备份
 
-备份软件:Paragon HFS+ for Windows v10.5 百度网盘里有
+# 备份软件:Paragon HFS+ for Windows v10.5 百度网盘里有
+
+
+上面是参考的:
+
+我最想要的是:win10下直接备份还原,简单好操作 = 淘宝店家选用的方法.(不用准备单独的苹果格式的硬盘来备份)
+只用一个软件---Paragon Hard Disk Manger
+https://www.bilibili.com/video/av75454979/
+
 
 
 疑问:备份mac系统是不是只需要备份 mac下的 efi分区+mac系统盘?
