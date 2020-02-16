@@ -124,3 +124,11 @@ https://www.bilibili.com/video/av39026334/
 
 备份软件:Paragon HFS+ for Windows v10.5 百度网盘里有
 
+
+
+其他:
+1.隐藏系统盘
+
+https://iknow.lenovo.com.cn/detail/dc_151394.html
+
+
