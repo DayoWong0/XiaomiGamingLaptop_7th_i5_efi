@@ -130,6 +130,9 @@ https://www.bilibili.com/video/av39026334/
 备份软件:Paragon HFS+ for Windows v10.5 百度网盘里有
 
 
+疑问:备份mac系统是不是只需要备份 mac下的 efi分区+mac系统盘?
+
+
 
 其他:
 1.隐藏系统盘
