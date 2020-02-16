@@ -114,3 +114,6 @@ sudo spctl --master-disable
 https://www.bilibili.com/video/av39026334/
 
 黑苹果在win10下备份 推荐经常备份
+
+备份软件:Paragon HFS+ for Windows v10.5 百度网盘里有
+
