@@ -170,3 +170,6 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 这样就不用添加系统时间补丁。
 
 
+＃　打算搞一个ｇｈｏｓｔ超级懒人版　恢复安装包
+
+
