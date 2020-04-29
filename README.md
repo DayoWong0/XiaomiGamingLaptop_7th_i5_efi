@@ -7,16 +7,16 @@ https://blog.daliansky.net/
 
 
 
-＃黑苹果系列 遇到的问题和办法
-＃全篇参考文章(参考这个基本没问题):http://zxacn.com/articles/2019/08/02/1564717450462.html#b3_solo_h2_5
+＃ 黑苹果系列 遇到的问题和办法
+＃ 全篇参考文章(参考这个基本没问题):http://zxacn.com/articles/2019/08/02/1564717450462.html#b3_solo_h2_5
 
 其他参考文章
 https://zhuanlan.zhihu.com/p/84327935
 https://www.codetd.com/article/1805647
 
-＃安装:
+＃ 安装:
 
-＃　资源文件:
+＃ 资源文件:
 
 资源工具
 mac os镜像、windows下的工具以及配置文件
