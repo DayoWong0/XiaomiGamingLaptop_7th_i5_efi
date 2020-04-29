@@ -1,22 +1,22 @@
 # mac
 
 
-#　这些好到爆炸的网站:
+# 这些好到爆炸的网站:
 https://www.kancloud.cn/q952008898/hei_ping_guo/1053738
 https://blog.daliansky.net/
 
 
 
-＃ 黑苹果系列 遇到的问题和办法
-＃ 全篇参考文章(参考这个基本没问题):http://zxacn.com/articles/2019/08/02/1564717450462.html#b3_solo_h2_5
+# 黑苹果系列 遇到的问题和办法
+＃# 全篇参考文章(参考这个基本没问题):http://zxacn.com/articles/2019/08/02/1564717450462.html#b3_solo_h2_5
 
 其他参考文章
 https://zhuanlan.zhihu.com/p/84327935
 https://www.codetd.com/article/1805647
 
-＃ 安装:
+## 安装:
 
-＃ 资源文件:
+### 资源文件:
 
 资源工具
 mac os镜像、windows下的工具以及配置文件
@@ -26,7 +26,7 @@ mac os镜像、windows下的工具以及配置文件
 百度云账号用户名叫 爱0000k 下
 小米游戏本黑苹果资源
 
-＃注:clover要用
+### clover要用
 
 CLOVER的副本.zip 这个才支持我这本子
 
@@ -38,7 +38,7 @@ CLOVER的副本.zip 这个才支持我这本子
 就成了 双硬盘装双系统
 
 
-＃分区:
+## 分区:
 
 苹果要apfs格式 需要用 DiskGenius.exe 将整个机械硬盘 
 
