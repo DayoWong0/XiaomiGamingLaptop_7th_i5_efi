@@ -1,4 +1,4 @@
-用[这个EFI文件](https://github.com/chengziqaq/mac/blob/master/clover/CLOVER10.15.4%E7%B3%BB%E7%BB%9F%E7%94%A8%E7%9A%84.zip)  
+用[这个EFI文件](https://github.com/chengziqaq/mac/raw/master/clover/CLOVER10.15.4%E7%B3%BB%E7%BB%9F%E7%94%A8%E7%9A%84.zip)  
 蓝牙不可用  
 系统镜像用这个[黑果小兵](https://blog.daliansky.net/macOS-Catalina-10.15.4-19E266-Release-version-with-Clover-5107-original-image-Double-EFI-Version-UEFI-and-MBR.html)
 # 添加双系统启动,在win下使用easyefi,新建启动项,具体谷歌
