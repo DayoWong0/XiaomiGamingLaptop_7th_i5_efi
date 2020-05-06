@@ -4,5 +4,6 @@
 系统偏好设置--》鼠标--》取消勾选 滚动方向:自然
 ## 亮度调节快捷键 + 左ctrl键-->cmd键
 用的软件[karabiner](https://karabiner-elements.pqrs.org/)修改键盘映射  
-F11上面那个Prtscn和F12上的Insert分别为 亮度减小 和增加
+F11上面那个Prtscn和F12上的Insert分别为 亮度减小 和增加  
+左ctrl键-->cmd键  
 
