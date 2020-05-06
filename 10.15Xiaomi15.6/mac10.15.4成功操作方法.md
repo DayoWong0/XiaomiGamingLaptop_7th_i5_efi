@@ -1,3 +1,7 @@
+配置:
+小米游戏本7代   
+i5 7300hq 
+显卡1060(独显不能用)  
 用[这个EFI文件](https://github.com/chengziqaq/mac/raw/master/clover/CLOVER10.15.4%E7%B3%BB%E7%BB%9F%E7%94%A8%E7%9A%84.zip)  
 蓝牙不可用  
 系统镜像用这个[黑果小兵](https://blog.daliansky.net/macOS-Catalina-10.15.4-19E266-Release-version-with-Clover-5107-original-image-Double-EFI-Version-UEFI-and-MBR.html)
