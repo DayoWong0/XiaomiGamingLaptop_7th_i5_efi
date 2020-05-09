@@ -2,7 +2,7 @@
 小米游戏本7代   
 i5 7300hq 
 显卡1060(独显不能用)  
-用[这个EFI文件](https://github.com/chengziqaq/mac/raw/master/clover/CLOVER10.15.4%E7%B3%BB%E7%BB%9F%E7%94%A8%E7%9A%84.zip)  
+用[这个EFI文件](https://github.com/chengziqaq/mac/raw/master/clover/CLOVER-2020-5-9%E5%B0%8F%E7%B1%B3%E6%B8%B8%E6%88%8F%E6%9C%AC15.67%E4%BB%A3i57300hqmacos10.15.3%E5%BC%80%E6%9C%BA20s.zip)  
 蓝牙不可用  
 系统镜像用这个[黑果小兵](https://blog.daliansky.net/macOS-Catalina-10.15.4-19E266-Release-version-with-Clover-5107-original-image-Double-EFI-Version-UEFI-and-MBR.html)
 # 添加双系统启动,在win下使用easyefi,新建启动项,具体谷歌
