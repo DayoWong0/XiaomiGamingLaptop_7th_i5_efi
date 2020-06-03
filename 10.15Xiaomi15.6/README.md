@@ -12,10 +12,8 @@ https://zxacn.com/articles/2019/08/02/1564717450462.html#b3_solo_h2_5
 参考步骤2的网站
 
 ## 不能进入安装界面 卡苹果
-Dayo Wong 2020/4/30 3:47:41
 用了黑果小兵的配置文件。把conflig改了,boot.efi复制了改了
 
-Dayo Wong 2020/4/30 3:47:52
 驱动kext忘了
 
 efi分区没搞好
@@ -27,39 +25,27 @@ efi分区新建方法(Mac OSX 抹盘发生错误:Mediakit 报告设备上空间�
 用了黑果小兵的配置文件。把config改了,Boot目录下 boot.efi复制了改了
 boot.efi不改的话,clover界面显示不正确
 
-Dayo Wong 2020/4/30 4:14:56
 安装系统的副本已经损坏
 
-Dayo Wong 2020/4/30 4:15:18
 终端输入:date 10251020
 
-Dayo Wong 2020/4/30 4:15:35
-Dayo Wong  
 终端输入:date 10251020
 10.15系统
 
-Dayo Wong 2020/4/30 4:26:04
 关键:黑果小兵的kext和clover版本 小米游戏本用来安装过mac13.6的配置文件(这个可能不是关键,下次试试)
 
-Dayo Wong 2020/4/30 4:26:24
-Dayo Wong  
 关键:黑果小兵的kext和clover版本 小米游戏本用来安装过mac13.6的配置文件(这个可能不是关键,下次试试)
 efi分区要搞对
 
-Dayo Wong 2020/4/30 4:26:37
-Dayo Wong  
 efi分区新建方法(Mac OSX 抹盘发生错误:Mediakit 报告设备上空间不足以执行此操作的解决办法
 
 ):https://blog.zzzmode.com/2016/05/02/osx-mediakit-reports-partition-map-too-small/
 efi分区看这个
 
-Dayo Wong 2020/4/30 4:28:05
 机械硬盘安装系统是真的慢,启动也慢得一批
 
-Dayo Wong 2020/4/30 4:28:54
 Mac系统ghost备份和恢复的方法？
 
-Dayo Wong  17:01:49
 https://www.sqlsec.com/2019/12/macos.html
 
 总结:   
